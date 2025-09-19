@@ -59,7 +59,7 @@ Node.js & npm (optional for frontend development)
 Installation
 Clone the repo
 
-git clone [https://github.com/your_username/HealHub.git](https://github.com/khilarionkar05/HealthHub.git)
+git clone [https://github.com/khilarionkar05@/HealHub.git](https://khilarionkar05.github.io/HealthHub/)
 
 Install Python dependencies
 
